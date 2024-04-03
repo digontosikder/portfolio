@@ -121,3 +121,18 @@ nav ul {
     
     text-align: center;
 }
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    width: 782px;
+    height: 60px;
+}
+.about-info{
+    text-align: center;
+    
+}
